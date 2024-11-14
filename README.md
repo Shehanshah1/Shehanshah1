@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shehanshah1
 - 👀 I’m interested in Python, Java, HTML, CSS, AI, C++, C#, JS, .NET frameworks, and databases.
-- 🌱 I’m currently learning Python, HTML, Data structures, and Algorithm analysis
-- 💞️ I’m looking to collaborate on intricate design based websites by HTML and CSS
+- 🌱 I’m currently learning (and executing) Full Stack Development and doing research projects on Machine Learning and AI.
+- 💞️ I’m looking to collaborate on a Tech internship in Summmer 25
 - 📫 How to reach me MuhammadAsjad.RehmanHashmi@gmail.com 
 
 <!---
